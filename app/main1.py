@@ -42,9 +42,9 @@ def upload(files: List[UploadFile] = File(...)):
 
 #uncomment here for images
 
-           image_descriptions = extract_images_from_pdf(file_path)
-           for description in image_descriptions:
-               rag.add_document(description, f"{file.filename}_images")
+           #image_descriptions = extract_images_from_pdf(file_path)
+           #for description in image_descriptions:
+               #rag.add_document(description, f"{file.filename}_images")
 
     return {
     "message": "Files uploaded successfully",
