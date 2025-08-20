@@ -382,32 +382,32 @@ python app/main1.py
 
 ## 🛣️ **Roadmap**
 
-### **Q4 2024: Foundation** ✅
+### **Q2 2025: Foundation** ✅
 - [x] Basic RAG implementation
 - [x] ChromaDB integration  
 - [x] Qwen 2.5 integration
 - [x] Web interface
 - [x] Docker containerization
 
-### **Q1 2025: Multimodal** 🚧
+### **Q3 2025: Multimodal** 🚧
 - [ ] Qwen-VL integration for image analysis
 - [ ] LLaVA model integration
 - [ ] Technical diagram understanding
 - [ ] Blueprint specification extraction
 
-### **Q2 2025: Enterprise** 📋
+### **Q4 2025: Enterprise** 📋
 - [ ] Custom testing framework
 - [ ] Smart chunking implementation
 - [ ] Multi-tenant architecture
 - [ ] Advanced security features
 
-### **Q3 2025: Scale** 📈
+### **Q1 2026: Scale** 📈
 - [ ] Microservices migration
 - [ ] Horizontal scaling
 - [ ] Performance optimization
 - [ ] Enterprise deployment tools
 
-### **Q4 2025: Innovation** 🚀
+### **Q2 2026: Innovation** 🚀
 - [ ] Real-time collaboration
 - [ ] Mobile app development
 - [ ] Advanced AI agents
